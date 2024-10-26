@@ -1,4 +1,4 @@
-This computer vision-based traffic violation detection system project involves various steps. Here’s a structured approach to guide you:
+This computer vision-based traffic violation detection system project involves various steps. Below mentioned is the detailed approach and the guide:
 
 1. Problem Definition
 Objective: Develop a real-time system that detects traffic violations such as red-light running, illegal U-turns, and improper parking.
@@ -32,15 +32,25 @@ Performance Monitoring: Continuously track the model's accuracy and update it fo
 10. GitHub Repository Checklist
 Include Files: Upload all scripts and code files.
 Dataset: Provide the dataset used for training and testing.
-README File:
+11. README File:
 Research findings and academic references.
 Data preparation process.
 Model architecture, parameters, and training details.
 Accuracy metrics and summarized results.
 Project demo screenshots.
-Useful References:
+12. Useful References:
 Traffic Violation Detection Research
 Traffic Signal Violation Detection System
+
+13. Dataset Usage
+Dataset Details: Describe the dataset used, such as the source, video resolution, number of samples, and types of violations covered (e.g., red-light running, wrong-way driving).
+Data Processing: Explain how frames were extracted, labeled, and augmented. Mention the split ratio for training and testing.
+14. Evaluation Metrics Explanation
+Accuracy, Precision, Recall: Define these metrics clearly. For example, precision measures how many detected violations were correct, and recall measures how many actual violations were detected.
+F1-Score: Include the F1-Score to give a balanced metric of the model's performance.
+15. Academic References
+Add references from relevant studies like computer vision-based traffic violation detection or smart city traffic management.
+Consider adding papers that discuss YOLO and Faster R-CNN for traffic analysis.
 
 README.md File
 Document the project with instructions, including:
